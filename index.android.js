@@ -17,5 +17,3 @@ class JdApp extends Component {
 
 AppRegistry.registerComponent('JdApp', () => JdApp);
 
-
-AppRegistry.registerComponent('JdApp', () => JdApp);
